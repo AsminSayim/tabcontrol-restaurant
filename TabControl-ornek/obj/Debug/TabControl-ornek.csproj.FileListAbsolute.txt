@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\bin\Debug\TabControl-ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\bin\Debug\TabControl-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\bin\Debug\TabControl-ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\obj\Debug\TabControl-ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\obj\Debug\TabControl-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\obj\Debug\TabControl_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\obj\Debug\TabControl_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\obj\Debug\TabControl-ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\obj\Debug\TabControl-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\obj\Debug\TabControl-ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\TabControl-ornek\TabControl-ornek\obj\Debug\TabControl-ornek.pdb
